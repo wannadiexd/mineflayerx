@@ -1,0 +1,5 @@
+{
+  "welcomeMessage": "Бот онлайн! Введите .помощь для списка команд",
+  "respawnMessage": "смертей: {count}",
+  "username": "Bot"
+}
