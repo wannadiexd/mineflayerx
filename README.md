@@ -1,6 +1,6 @@
 # Mineflayer Bot
 
-Бот для Minecraft на основе [mineflayer](https://github.com/PrismarineJS/mineflayer).
+Бот для Minecraft на основе [Mineflayer](https://github.com/PrismarineJS/mineflayer).
 
 ## Запуск
 
@@ -22,7 +22,7 @@
 ## Требования
 
 - Node.js LTS
-- Сервер Minecraft (поддержка offline-mode — опционально)
+- Сервер Minecraft или Локальный мир (поддержка offline-mode — опционально)
 
 ## Лицензия
 

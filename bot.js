@@ -2,12 +2,6 @@ const fs = require('fs');
 const mineflayer = require('mineflayer');
 const path = require('path');
 
-// информация о сессии
-const sessionInfo = {
-  startDate: '2025-07-10 18:53:58',
-  username: 'wannadiexd'
-};
-
 // флаг первого подключения
 let isFirstSpawn = true;
 
@@ -205,6 +199,4 @@ bot.on('end', () => {
   console.log('Соединение с сервером завершено');
 });
 
-console.log(`Бот запущен: ${sessionInfo.startDate}`);
-console.log(`Пользователь: ${sessionInfo.username}`);
-console.log(`Имя бота: ${botName}`);
+console.log(`Minecraft бот запущен. Имя: ${botName}`);
