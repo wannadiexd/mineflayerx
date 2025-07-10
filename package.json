@@ -1,0 +1,24 @@
+{
+  "name": "mineflayerx",
+  "version": "1.0.0",
+  "description": "Бот для Minecraft на основе [mineflayer](https://github.com/PrismarineJS/mineflayer).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wannadiexd/mineflayerx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wannadiexd/mineflayerx/issues"
+  },
+  "homepage": "https://github.com/wannadiexd/mineflayerx#readme",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "mineflayer": "^4.30.0"
+  }
+}
